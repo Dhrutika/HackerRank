@@ -1,1 +1,1 @@
-# Solutions for HackerRank participants
+# HackerRank Solutions
